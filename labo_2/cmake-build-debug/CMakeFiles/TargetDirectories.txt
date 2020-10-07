@@ -1,0 +1,3 @@
+D:/Softwareontwerp C-C++/labo_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Softwareontwerp C-C++/labo_2/cmake-build-debug/CMakeFiles/labo_2.dir
+D:/Softwareontwerp C-C++/labo_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

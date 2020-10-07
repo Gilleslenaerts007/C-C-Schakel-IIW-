@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Softwareontwerp C-C++/Labo1_2/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+orc.h
+D:/Softwareontwerp C-C++/Labo1_2/orc.h
+
+D:/Softwareontwerp C-C++/Labo1_2/orc.c
+stdio.h
+-
+stdlib.h
+-
+orc.h
+D:/Softwareontwerp C-C++/Labo1_2/orc.h
+
+D:/Softwareontwerp C-C++/Labo1_2/orc.h
+
